@@ -10,7 +10,7 @@ namespace StrategyDesignPattern
     class Program
     {
         /// <summary>
-        /// Entry point into console application.
+        /// Entry point into console application. Strategy Design Pattern
         /// </summary>
         static void XXXMain()
         {
