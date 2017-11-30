@@ -9,7 +9,7 @@ namespace SingletonDesignPattern
 
 
     /// <summary>
-    /// Program startup class for Structural
+    /// Program startup class for Structural.Singleton.
     /// Singleton Design Pattern.
     /// </summary>
     class Program
