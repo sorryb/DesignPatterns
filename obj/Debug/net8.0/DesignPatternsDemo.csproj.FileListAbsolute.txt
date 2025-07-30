@@ -1,0 +1,15 @@
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\obj\Debug\net8.0\DesignPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\obj\Debug\net8.0\DesignPatternsDemo.AssemblyInfoInputs.cache
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\obj\Debug\net8.0\DesignPatternsDemo.AssemblyInfo.cs
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\obj\Debug\net8.0\DesignPatternsDemo.csproj.CoreCompileInputs.cache
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\obj\Debug\net8.0\DesignPatternsDemo.sourcelink.json
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\bin\Debug\net8.0\DesignPatternsDemo.exe
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\bin\Debug\net8.0\DesignPatternsDemo.deps.json
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\bin\Debug\net8.0\DesignPatternsDemo.runtimeconfig.json
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\bin\Debug\net8.0\DesignPatternsDemo.dll
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\bin\Debug\net8.0\DesignPatternsDemo.pdb
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\obj\Debug\net8.0\DesignPatternsDemo.dll
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\obj\Debug\net8.0\refint\DesignPatternsDemo.dll
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\obj\Debug\net8.0\DesignPatternsDemo.pdb
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\obj\Debug\net8.0\DesignPatternsDemo.genruntimeconfig.cache
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\obj\Debug\net8.0\ref\DesignPatternsDemo.dll
