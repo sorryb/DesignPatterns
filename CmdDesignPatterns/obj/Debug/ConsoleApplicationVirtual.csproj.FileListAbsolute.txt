@@ -18,3 +18,5 @@ G:\Work\InternShip\Design Pattern\ConsoleApplicationDesignPatterns\obj\Debug\Con
 G:\Work\InternShip\Design Pattern\ConsoleApplicationDesignPatterns\bin\Debug\ConsoleApplicationVirtual.dll.config
 G:\Work\InternShip\Design Pattern\ConsoleApplicationDesignPatterns\bin\Debug\ConsoleApplicationVirtual.dll
 G:\Work\InternShip\Design Pattern\ConsoleApplicationDesignPatterns\obj\Debug\ConsoleApplicationVirtual.dll
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\CmdDesignPatterns\obj\Debug\ConsoleApplicationVirtual.dll
+C:\Work\Exercices\.NET\CSharp\DesignPatterns\CmdDesignPatterns\obj\Debug\ConsoleApplicationVirtual.pdb
