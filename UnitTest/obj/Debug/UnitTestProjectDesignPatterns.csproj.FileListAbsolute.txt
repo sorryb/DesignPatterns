@@ -1,7 +1,0 @@
-G:\Work\InternShip\Design Pattern\UnitTestProjectDesignPatterns\bin\Debug\UnitTestProjectDesignPatterns.dll
-G:\Work\InternShip\Design Pattern\UnitTestProjectDesignPatterns\bin\Debug\UnitTestProjectDesignPatterns.pdb
-G:\Work\InternShip\Design Pattern\UnitTestProjectDesignPatterns\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-G:\Work\InternShip\Design Pattern\UnitTestProjectDesignPatterns\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-G:\Work\InternShip\Design Pattern\UnitTestProjectDesignPatterns\obj\Debug\UnitTestProjectDesignPatterns.csprojResolveAssemblyReference.cache
-G:\Work\InternShip\Design Pattern\UnitTestProjectDesignPatterns\obj\Debug\UnitTestProjectDesignPatterns.dll
-G:\Work\InternShip\Design Pattern\UnitTestProjectDesignPatterns\obj\Debug\UnitTestProjectDesignPatterns.pdb
