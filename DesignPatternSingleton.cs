@@ -1,52 +1,35 @@
 ﻿using System;
 
-/// <summary>
-/// The Singleton Design Pattern
-/// For some types(classes and objects), having more than one instance of the type within an application could result in adverse effects.
-/// </summary>
-namespace DesignPatternsDemo.Singleton
+namespace DesignPatternsDemo
 {
-
-
     /// <summary>
-    /// Program startup class for Structural
-    /// Singleton Design Pattern.
+    /// Singleton Design Pattern Demo
+    /// Demonstrates a classic singleton implementation.
     /// </summary>
-    class Program
+    public static class SingletonPatternDemo
+    {
+        public static void Execute()
         {
-            /// <summary>
-            /// Entry point into console application.
-            /// </summary>
-            static void XXXMain()
-            {
-                // Constructor is private -- cannot use new
-                Singleton s1 = Singleton.Instance();
-                Singleton s2 = Singleton.Instance();
+            // Constructor is private -- cannot use new
+            Singleton s1 = Singleton.Instance();
+            Singleton s2 = Singleton.Instance();
 
-            
-
-                // Test for same instance
+            // Test for same instance
             if (s1 == s2)
-                {
-                    Console.WriteLine("Objects are the same instance");
-                }
-
-                // Wait for user
-                Console.ReadKey();
+            {
+                Console.WriteLine("Objects are the same instance");
             }
         }
 
-    /// <summary>
-    /// Singleton only one instance.
-    /// </summary>
-    class Singleton
+        /// <summary>
+        /// Singleton only one instance.
+        /// </summary>
+        public class Singleton
         {
             private static Singleton _instance;
 
             // Constructor is 'protected'
-            private Singleton()
-            {
-            }
+            private Singleton() { }
 
             public static Singleton Instance()
             {
@@ -56,11 +39,11 @@ namespace DesignPatternsDemo.Singleton
                 {
                     _instance = new Singleton();
                 }
-
                 return _instance;
             }
         }
     }
+}
 
 
 
