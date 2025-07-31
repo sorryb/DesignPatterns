@@ -10,17 +10,18 @@ A professional and extendable console application to **demonstrate classic Desig
 ```
 DesignPatternsDemo/
 ├── Program.cs                 # Main entry point with CLI pattern dispatcher
-├── DesignPatternsDemo.csproj # .NET 6.0 project file
+├── DesignPatternsDemo.csproj # .NET 8.0 project file
 └── README.md                  # You're reading it!
 ```
 
 ---
 
+
 ## 📦 Prerequisites
 
 Make sure you have the following installed:
 
-- ✅ [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- ✅ [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - ✅ Terminal or Command Prompt
 - ✅ Code Editor (e.g., Visual Studio Code, Visual Studio)
 
