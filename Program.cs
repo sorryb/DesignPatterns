@@ -15,6 +15,9 @@ namespace DesignPatternsDemo
                 Console.WriteLine("  strategy");
                 Console.WriteLine("  strategy-classic");
                 Console.WriteLine("  factory");
+                Console.WriteLine("  factory-generic");
+                Console.WriteLine("  factory-ifswitch");
+                Console.WriteLine("  singleton");
                 Console.WriteLine("  observer");
                 Console.WriteLine("  observer-events");
                 Console.WriteLine("  adapter");
@@ -28,14 +31,23 @@ namespace DesignPatternsDemo
                 case "strategy":
                     StrategyPatternDemo.Execute();
                     break;
-               case "observer":
+                case "observer":
                     ObserverPatternDemo.Execute();
-                    break;                    
+                    break;
                 case "strategy-classic":
                     ClassicStrategyPatternDemo.Execute();
                     break;
                 case "factory":
                     FactoryPatternDemo.Execute();
+                    break;
+                case "factory-generic":
+                    FactoryPatternGenericsDemo.Execute();
+                    break;
+                case "factory-ifswitch":
+                    FactoryPatternIfSwitchDemo.Execute();
+                    break;
+                case "singleton":
+                    SingletonPatternDemo.Execute();
                     break;
                 case "observer-events":
                     ObserverEventsDemo.Execute();
