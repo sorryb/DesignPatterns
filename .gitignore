@@ -1,0 +1,292 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.vs/
+.vscode/
+# Rider
+.idea/
+*.sln.iml
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+# NuGet
+*.nupkg
+# Visual Studio Code
+.history/
+# Others
+*.log
+*.tlog
+*.cache
+*.pdb
+*.mdb
+*.dbmdl
+*.bak
+*.backup
+*.tmp
+*.temp
+*.vspscc
+*.vssscc
+*.ncrunch*
+_ReSharper*/
+[Tt]est[Rr]esult*/
+*.TestResults
+*.publish/
+# DotCover
+*.dotCover
+# Azure Pipelines
+*.azure-pipelines.yml
+# Local History for Visual Studio
+.localhistory/
+# JetBrains Rider
+.idea/
+*.sln.iml
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# MonoDevelop
+*.userprefs
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+# StyleCop
+StyleCopReport.xml
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.ipch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+# Chutzpah Test files
+_Chutzpah*
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+# TFS 2012 Local Workspace
+$tf/
+# Guidance Automation Toolkit
+*.gpState
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+# JustCode is a .NET coding add-in
+.JustCode
+# TeamCity is a build add-in
+_TeamCity*
+# DotCover is a Code Coverage Tool
+*.dotCover
+# AxoCover is a Code Coverage Tool
+.axoCover/
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+# NCrunch
+_NCrunch_*/
+.*crunch*.local.xml
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+# Web workbench (sass)
+.sass-cache/
+# Installshield output folder
+[Ee]xpress/
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/
+# Click-Once directory
+publish/
+# Publish Web Output
+*.Publish.xml
+*.pubxml
+*.publishproj
+# Windows Azure Build Output
+csx/
+*.build.csdef
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+*.appxsym
+*.appxrecipe
+*.appinstaller
+# Visual Studio cache files
+*.cache
+# Others
+*.dbmdl
+*.bak
+*.backup
+*.tmp
+*.temp
+*.vspscc
+*.vssscc
+*.ncrunch*
+_ReSharper*/
+[Tt]est[Rr]esult*/
+*.TestResults
+*.publish/
+# Rider
+.idea/
+*.sln.iml
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# MonoDevelop
+*.userprefs
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+# StyleCop
+StyleCopReport.xml
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.ipch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+# Chutzpah Test files
+_Chutzpah*
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+# TFS 2012 Local Workspace
+$tf/
+# Guidance Automation Toolkit
+*.gpState
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+# JustCode is a .NET coding add-in
+.JustCode
+# TeamCity is a build add-in
+_TeamCity*
+# DotCover is a Code Coverage Tool
+*.dotCover
+# AxoCover is a Code Coverage Tool
+.axoCover/
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+# NCrunch
+_NCrunch_*/
+.*crunch*.local.xml
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+# Web workbench (sass)
+.sass-cache/
+# Installshield output folder
+[Ee]xpress/
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/
+# Click-Once directory
+publish/
+# Publish Web Output
+*.Publish.xml
+*.pubxml
+*.publishproj
+# Windows Azure Build Output
+csx/
+*.build.csdef
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+*.appxsym
+*.appxrecipe
+*.appinstaller
+# Visual Studio cache files
+*.cache
+# Others
+*.dbmdl
+*.bak
+*.backup
+*.tmp
+*.temp
+*.vspscc
+*.vssscc
+*.ncrunch*
+_ReSharper*/
+[Tt]est[Rr]esult*/
+*.TestResults
+*.publish/
