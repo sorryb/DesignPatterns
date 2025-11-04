@@ -21,6 +21,7 @@ namespace DesignPatternsDemo
                 Console.WriteLine("  observer");
                 Console.WriteLine("  observer-events");
                 Console.WriteLine("  adapter");
+                Console.WriteLine("  template");
                 Console.WriteLine("  chain-of-responsibility");
                 return;
             }
@@ -55,6 +56,9 @@ namespace DesignPatternsDemo
                     break;
                 case "adapter":
                     AdapterPatternDemo.Execute();
+                    break;
+                case "template":
+                    TemplatePatternDemo.Execute();
                     break;
                 case "chain-of-responsibility":
                     ChainOfResponsibilityPatternDemo.Execute();
